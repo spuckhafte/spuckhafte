@@ -12,7 +12,7 @@ I am familiar with some languages mentioned below (with decreasing "familiaritis
 6. QBasic (lol)
 
 Social Media Handles:
-1.Github: https://github.com/spuckhafte
-2.Instagram: https://www.instagram.com/spuckhafte_ferwirklung
-3.Discord: https://discord.gg/BuyvHdm3Av
-4.Twitter: https://twitter.com/spuckhafte
+1. Github: https://github.com/spuckhafte
+2. Instagram: https://www.instagram.com/spuckhafte_ferwirklung
+3. Discord: https://discord.gg/BuyvHdm3Av
+4. Twitter: https://twitter.com/spuckhafte
