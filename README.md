@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**spuckhafte/spuckhafte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well I like to code and have made some projects accordingly.
+Look at my repositories for more.
 
-Here are some ideas to get you started:
+I am familiar with some languages mentioned below (with decreasing "familiaritism"): 
+1. Javascript
+2. HTML
+3. Python
+4. JAVA
+5. CSS
+6. QBasic (lol)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social Media Handles:
+Github: https://github.com/spuckhafte
+Instagram: https://www.instagram.com/spuckhafte_ferwirklung
+Discord: https://discord.gg/BuyvHdm3Av
+Twitter: https://twitter.com/spuckhafte
