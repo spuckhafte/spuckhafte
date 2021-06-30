@@ -1,4 +1,4 @@
-### Het there 👋
+### Hey there 👋
 
 Well I like to code and have made some projects accordingly.
 Look at my repositories for more.
