@@ -3,9 +3,9 @@
 Well I like to code and have made some projects accordingly.
 Look at my repositories for more.
 
-I am familiar with some languages mentioned below (with decreasing "familiaritism"): 
-1. Javascript
-2. Python
+I am familiar with some languages mentioned below: 
+1. Python
+2. Javascript
 3. HTML
 4. JAVA
 5. CSS
