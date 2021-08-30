@@ -5,8 +5,8 @@ Look at my repositories for more.
 
 I am familiar with some languages mentioned below (with decreasing "familiaritism"): 
 1. Javascript
-2. HTML
-3. Python
+2. Python
+3. HTML
 4. JAVA
 5. CSS
 6. QBasic (lol)
