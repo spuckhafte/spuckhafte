@@ -4,6 +4,7 @@ Well I like to code and have made some projects accordingly.
 Look at my repositories for more.
 
 I am familiar with some languages mentioned below: 
+
 <ul>
   <li>Python</li>
   <li>Javascript</li>
@@ -11,8 +12,7 @@ I am familiar with some languages mentioned below:
   <li>JAVA</li>
   <li>CSS</li>
   <li>QBasic (lol)</li>
-<ul>
-<br>
+  <ul>
 Social Media Handles:
 1. Github: https://github.com/spuckhafte
 2. Instagram: https://www.instagram.com/spuckhafte_ferwirklung
