@@ -5,11 +5,11 @@ Look at my repositories for more.
 
 I am familiar with some languages mentioned below: 
 1. <kbd>Python</kbd>
-2. JavaScript
-3. HTML
-4. CSS
-5. Java
-6. Q-Basic *lol*
+2. <kbd>JavaScript</kbd>
+3. <kbd>HTML</kbd>
+4. <kbd>CSS</kbd>
+5. <kbd>Java<\kbd>
+6. <kbd>Q-Basic *lol*</kbd>
 
 <hr>
     
