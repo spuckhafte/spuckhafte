@@ -4,7 +4,7 @@ Well I like to code and have made some projects accordingly.
 Look at my repositories for more.
 
 I am familiar with some languages mentioned below: 
-1. Python
+1. <kbd>Python</kbd>
 2. JavaScript
 3. HTML
 4. CSS
