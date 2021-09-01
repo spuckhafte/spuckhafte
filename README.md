@@ -12,7 +12,7 @@ I am familiar with some languages mentioned below:
   <li>CSS</li>
   <li>QBasic (lol)</li>
 <ul>
-
+<br>
 Social Media Handles:
 1. Github: https://github.com/spuckhafte
 2. Instagram: https://www.instagram.com/spuckhafte_ferwirklung
