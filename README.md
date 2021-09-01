@@ -4,12 +4,14 @@ Well I like to code and have made some projects accordingly.
 Look at my repositories for more.
 
 I am familiar with some languages mentioned below: 
-1. Python
-2. Javascript
-3. HTML
-4. JAVA
-5. CSS
-6. QBasic (lol)
+<ul>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>HTML</li>
+  <li>JAVA</li>
+  <li>CSS</li>
+  <li>QBasic (lol)</li>
+<ul>
 
 Social Media Handles:
 1. Github: https://github.com/spuckhafte
