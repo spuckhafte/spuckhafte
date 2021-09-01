@@ -3,7 +3,7 @@
 Well I like to code and have made some projects accordingly.
 Look at my repositories for more.
 
-I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd> <kbd>Q-Basic *lol*</kbd>
+I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd> <kbd>Q-Basic</kbd>*lol*
 
 <hr>
     
