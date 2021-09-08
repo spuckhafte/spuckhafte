@@ -3,12 +3,12 @@
 Well I like to code and have made some projects accordingly.
 Look at my repositories for more.
 
-I am familiar with some languages: ###Python <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd>
+I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd>
 
 <hr>
     
 Social Media Handles:
 1. Github: https://github.com/spuckhafte
 2. Instagram: https://www.instagram.com/spuckhafte_ferwirklung
-3. Discord: https://discord.gg/BuyvHdm3Av
+3. Discord: https://discord.gg/mtop
 4. Twitter: https://twitter.com/spuckhafte
