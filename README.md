@@ -1,6 +1,7 @@
 ### Hey there 👋
 
 I am currently a high schooler and is also interested in programming.<br>
+
 I have made some projects like "OO Bank using Python and Excel (https://github.com/spuckhafte/PyBank)" and "Discord.js Bot (https://github.com/spuckhafte/homie-bot)".<br>
 I am currently working on a big social media project - "LOCUS (check the progress: https://github.com/users/spuckhafte/projects/1)".
 
