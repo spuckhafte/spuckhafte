@@ -8,7 +8,8 @@ I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>
 <hr>
     
 Social Media Handles:
-1. Github: https://github.com/spuckhafte
-2. Instagram: https://www.instagram.com/spuckhafte_ferwirklung
-3. Discord: https://discord.gg/mtop
-4. Twitter: https://twitter.com/spuckhafte
+1. Github: <a href="https://github.com/spuckhafte">@spuckhafte</a>
+2. Linked In: <a href="https://in.linkedin.com/in/rakshit-joshi-ab6892217">@Rakshit Joshi</a>
+3. Instagram: <a href="https://www.instagram.com/spuckhafte_ferwirklung">@spuckhafte_ferwirklung</a>
+4. Twitter: <a href="https://twitter.com/spuckhafte">@spuckhafte</a>
+5. Discord: `spuckhafte_ferwirklung#7109`
