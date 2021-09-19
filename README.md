@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I am currently a high schooler and is also interested in programming. I have made some projects like "OO Bank using Python and Excel (https://github.com/spuckhafte/PyBank)", "Discord.js Bot (https://github.com/spuckhafte/homie-bot)", and I am currently working on big social media project - "LOCUS (check the progress: https://github.com/users/spuckhafte/projects/1)".
+I am currently a high schooler and is also interested in programming. I have made some projects like "OO Bank using Python and Excel (https://github.com/spuckhafte/PyBank)", "Discord.js Bot (https://github.com/spuckhafte/homie-bot)", and I am currently working on a big social media project - "LOCUS (check the progress: https://github.com/users/spuckhafte/projects/1)".
 
 I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd>
 
