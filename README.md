@@ -3,7 +3,7 @@
 I am currently a high schooler and is also interested in programming.<br>
 
 I have made some projects like **Python Bank**, **Messaging sites**, **Discord.js Bots** *etc*.<br>
-I am currently working on a big social media project - **LOCUS** (check the progress: https://github.com/users/spuckhafte/projects/1).
+I am currently working on a big social media project - **LOCUS** (https://github.com/users/spuckhafte/projects/1).
 
 I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd>
 
