@@ -6,7 +6,7 @@ I have made some projects like **Python Bank**, **Messaging sites**, **Discord.j
 I am currently working on a big social media project - **LOCUS** (https://github.com/users/spuckhafte/projects/1).
 
 I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd>
-<br>
+<br><br>
 <img src="https://cdn.discordapp.com/attachments/884143949911031908/889920206053441536/unknown.png">
 <hr>
     
