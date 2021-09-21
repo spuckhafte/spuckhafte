@@ -7,7 +7,7 @@ I am currently working on a big social media project - **LOCUS** (https://github
 
 I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd>
 <br><br>
-<img src="https://cdn.discordapp.com/attachments/884143949911031908/889920206053441536/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/884143949911031908/889920206053441536/unknown.png" style="cursor:default; user-select:none">
 <hr>
     
 Social Media Handles:
