@@ -7,7 +7,7 @@ I am currently working on a big social media project - **LOCUS** (https://github
 
 I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd>
 <br><br>
-<img id="image" src="https://cdn.discordapp.com/attachments/884143949911031908/893551718846050344/unknown.png" style="cursor:default; user-select:none">
+<img src="https://cdn.discordapp.com/attachments/884143949911031908/893551718846050344/unknown.png" style="cursor:default; user-select:none">
 <hr>
     
 Social Media Handles:
@@ -16,13 +16,3 @@ Social Media Handles:
 3. Instagram: <a href="https://www.instagram.com/spuckhafte_ferwirklung">@spuckhafte_ferwirklung</a>
 4. Twitter: <a href="https://twitter.com/spuckhafte">@spuckhafte</a>
 5. Discord: `spuckhafte_ferwirklung#7109`
-
-<style>
-    #image {
-        border: 2px solid black;
-        transition: 0.3s ease-in-out;
-    }
-    #image:hover {
-        border: 2px solid wheat;
-    }
-</style>
