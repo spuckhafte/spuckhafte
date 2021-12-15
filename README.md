@@ -7,7 +7,7 @@ I am currently working on a big social media project - **LOCUS** (https://github
 
 I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd> <kbd>C#</kbd>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spuckhafte&theme=dracula" style="cursor:default; user-select:none">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spuckhafte&theme=dracula" style="cursor:default; user-select:none; border:none">
 <hr>
     
 Social Media Handles:
