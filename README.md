@@ -7,7 +7,6 @@ I am currently working on a big social media project - **LOCUS** (https://github
 
 I am familiar with some languages: <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd> <kbd>C#</kbd>
 <br><br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=spuckhafte
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spuckhafte" style="cursor:default; user-select:none">
 <hr>
     
