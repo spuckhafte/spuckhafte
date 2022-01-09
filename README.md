@@ -15,4 +15,4 @@ Social Media Handles:
 2. Linked In: <a href="https://in.linkedin.com/in/rakshit-joshi-ab6892217">@Rakshit Joshi</a>
 3. Instagram: <a href="https://www.instagram.com/spuckhafte_ferwirklung">@spuckhafte_ferwirklung</a>
 4. Twitter: <a href="https://twitter.com/spuckhafte">@spuckhafte</a>
-5. Discord: `spuckhafte_ferwirklung#7109`
+5. Discord: `spuckhafte#7109`
