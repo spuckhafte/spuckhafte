@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I am currently a high schooler and is also interested in programming.<br>
+High School.<br>
 
 **Current Project:** - Database built upon JSON :: **JDb**, contribute: https://github.com/spuckhafte/JSON-Database/issues/2
 
