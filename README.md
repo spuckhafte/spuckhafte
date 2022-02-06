@@ -4,8 +4,7 @@ I am currently a high schooler and is also interested in programming.<br>
 
 **Current Project:** - Database built upon JSON :: **JDb**, contribute: https://github.com/spuckhafte/JSON-Database/issues/2
 
-I have made some projects like **Python Bank**, **Messaging sites**, **Discord.js Bots** *etc*.<br>
-I am currently working on a big social media project - **LOCUS** (https://github.com/users/spuckhafte/projects/1).
+I have made some projects like **Messaging sites**, **Discord.js|.py Bots**, **Unity Games[C#]** *etc*.<br>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=spuckhafte&show_icons=true&theme=radical" style="user-select:none"><br>
 <br>
