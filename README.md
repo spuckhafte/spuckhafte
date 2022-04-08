@@ -2,7 +2,7 @@
 
 High School.<br>
 
-I can make projects using **`NodeJs`**, **`VanillaJs`**, **`ReactJs`**, **`UnityGames[C#]`**, **`Python`**, **`Java`**, **`c++`** *etc*.<br>
+I can make projects using **`NodeJs`** **`VanillaJs`** **`ReactJs`** **`UnityGames[C#]`** **`Python`** **`Java`** **`c++`** *etc*.<br>
 Favourite library (node): **socket.io**<br>
 
 <br><br>
