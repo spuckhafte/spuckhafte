@@ -2,10 +2,9 @@
 
 High School.<br>
 
-**Current Project:** - Database built upon JSON :: **JDb**, contribute: https://github.com/spuckhafte/JSON-Database/issues/2<br>
-**Current Project 2:** - Social Media Site, contribute: https://github.com/spuckhafte/Click/issues
+I can make projects using **NodeJs**, **VanillaJs**, **ReactJs**, **UnityGames[C#]**, **Python**, **Java**, **c++** *etc*.<br>
+Favourite library (node): **socket.io**<br>
 
-I have made some projects like **Messaging sites**, **Discord.js|.py Bots**, **Unity Games[C#]** *etc*.<br>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=spuckhafte&show_icons=true&theme=radical" style="user-select:none"><br>
 <br>
