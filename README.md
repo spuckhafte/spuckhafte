@@ -3,7 +3,7 @@
 High School.<br>
 
 Languages: **`NodeJs`** **`VanillaJs`** **`ReactJs`** **`UnityGames[C#]`** **`Python`** **`Java`** **`c++`** *etc*.<br>
-Favourite library (node): **`socket.io`**<br>
+Favourite library ***node***: **`socket.io`**<br>
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=spuckhafte&show_icons=true&theme=radical" style="user-select:none"><br>
