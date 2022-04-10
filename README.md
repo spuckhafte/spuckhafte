@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-High School.<br>
-
 Languages: **`NodeJs`** **`VanillaJs`** **`ReactJs`** **`UnityGames[C#]`** **`Python`** **`Java`** **`c++`** *etc*.<br>
 Favourite library ***npm*** : **`socket.io`**
 <br><br>
