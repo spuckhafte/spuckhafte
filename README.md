@@ -2,7 +2,7 @@
 
 **I love 🕸️**
 
-Languages: **`NodeJs`** **`VanillaJs`** **`ReactJs`** **`UnityGames[C#]`** **`Python`** **`Java`** **`c++`** *etc*.<br>
+Languages: **`JavaScript`** **`Node`** **`ReactJs`** **`UnityGames[C#]`** **`Python`** **`Java`** **`c++`** *etc*.<br>
 Favourite library ***npm*** : **`socket.io`**
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=spuckhafte&show_icons=true&theme=radical" style="user-select:none"><br>
