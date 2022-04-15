@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I love to develop web🕸️**
+**I love 🕸️**
 
 Languages: **`NodeJs`** **`VanillaJs`** **`ReactJs`** **`UnityGames[C#]`** **`Python`** **`Java`** **`c++`** *etc*.<br>
 Favourite library ***npm*** : **`socket.io`**
