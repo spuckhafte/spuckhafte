@@ -2,9 +2,14 @@
 
 **I love 🕸️**
 
+I like to create web applications and backend/frontend services.
+
+**Recent Project (Frontend): [SpuckJs](https://github.com/spuckhafte/SpuckJs)**<br>
+**Recent Project (Backend): [JDb-v2](https://github.com/spuckhafte/Jdb-v2)**
+
 Languages: **`JavaScript`** **`Node`** **`ReactJs`** **`UnityGames[C#]`** **`Python`** **`Java`** **`c++`** *etc*.<br>
-Favourite library ***npm*** : **`socket.io`**
-<br><br>
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=spuckhafte&show_icons=true&theme=radical" style="user-select:none"><br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spuckhafte&theme=dracula" style="user-select:none">
