@@ -2,10 +2,7 @@
 
 **I love 🕸️**
 
-I like to create web applications and backend/frontend services.
-
-**Recent Project (Frontend): [SpuckJs](https://github.com/spuckhafte/SpuckJs)**<br>
-**Recent Project (Backend): [JDb-v2](https://github.com/spuckhafte/Jdb-v2)**
+I like to create web applications handling both front/back-end.
 
 ### Technologies -
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
