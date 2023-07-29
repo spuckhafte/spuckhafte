@@ -23,9 +23,7 @@ I like to create web applications handling both front/back-end.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=spuckhafte&show_icons=true&theme=radical" style="user-select:none"><br>
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spuckhafte&theme=dracula" style="user-select:none">
 <hr>
     
